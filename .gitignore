@@ -1,0 +1,8 @@
+**/build
+*.code-workspace
+fanuc-kl/
+*robot.ini
+.vscode/
+scratch.md
+todo.md
+
