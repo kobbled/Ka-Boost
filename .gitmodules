@@ -1,0 +1,39 @@
+[submodule "lib/csv"]
+	path = lib/csv
+	url = https://github.com/kobbled/kl-csv
+[submodule "lib/debug"]
+	path = lib/debug
+	url = https://github.com/kobbled/kl-debug
+[submodule "lib/display"]
+	path = lib/display
+	url = https://github.com/kobbled/kl-display
+[submodule "lib/errors"]
+	path = lib/errors
+	url = https://github.com/kobbled/kl-errors
+[submodule "lib/hash"]
+	path = lib/hash
+	url = https://github.com/kobbled/hash
+[submodule "lib/iofile"]
+	path = lib/iofile
+	url = https://github.com/kobbled/kl-iofile
+[submodule "lib/KUnit"]
+	path = lib/KUnit
+	url = https://github.com/kobbled/KUnit
+[submodule "lib/math"]
+	path = lib/math
+	url = https://github.com/kobbled/kl-math
+[submodule "lib/matrix"]
+	path = lib/matrix
+	url = https://github.com/kobbled/kl-matrix
+[submodule "lib/pose"]
+	path = lib/pose
+	url = https://github.com/kobbled/kl-pose
+[submodule "lib/registers"]
+	path = lib/registers
+	url = https://github.com/kobbled/kl-registers
+[submodule "lib/Strings"]
+	path = lib/Strings
+	url = https://github.com/kobbled/Strings
+[submodule "lib/TPE"]
+	path = lib/TPE
+	url = https://github.com/kobbled/kl-TPE
