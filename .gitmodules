@@ -37,3 +37,6 @@
 [submodule "lib/TPE"]
 	path = lib/TPE
 	url = https://github.com/kobbled/kl-TPE
+[submodule "lib/transw-macros"]
+	path = lib/ktransw-macros
+	url = https://github.com/kobbled/ktransw-macros
