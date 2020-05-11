@@ -13,8 +13,8 @@
 [submodule "lib/hash"]
 	path = lib/hash
 	url = https://github.com/kobbled/hash
-[submodule "lib/iofile"]
-	path = lib/iofile
+[submodule "lib/files"]
+	path = lib/files
 	url = https://github.com/kobbled/kl-iofile
 [submodule "lib/KUnit"]
 	path = lib/KUnit
