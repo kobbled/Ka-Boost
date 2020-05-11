@@ -13,9 +13,6 @@
 [submodule "lib/hash"]
 	path = lib/hash
 	url = https://github.com/kobbled/hash
-[submodule "lib/files"]
-	path = lib/files
-	url = https://github.com/kobbled/kl-iofile
 [submodule "lib/KUnit"]
 	path = lib/KUnit
 	url = https://github.com/kobbled/KUnit
@@ -40,3 +37,6 @@
 [submodule "lib/ktransw-macros"]
 	path = lib/ktransw-macros
 	url = https://github.com/kobbled/ktransw-macros
+[submodule "lib/files"]
+	path = lib/files
+	url = https://github.com/kobbled/kl-files
