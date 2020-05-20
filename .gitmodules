@@ -40,3 +40,6 @@
 [submodule "lib/files"]
 	path = lib/files
 	url = https://github.com/kobbled/kl-files
+[submodule "lib/system"]
+	path = lib/system
+	url = https://github.com/kobbled/kl-system
