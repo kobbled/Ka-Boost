@@ -43,3 +43,6 @@
 [submodule "lib/system"]
 	path = lib/system
 	url = https://github.com/kobbled/kl-system
+[submodule "lib/multitask"]
+	path = lib/multitask
+	url = https://github.com/kobbled/kl-task
