@@ -46,3 +46,6 @@
 [submodule "lib/multitask"]
 	path = lib/multitask
 	url = https://github.com/kobbled/kl-task
+[submodule "lib/paths"]
+	path = lib/paths
+	url = https://github.com/kobbled/kl-paths
