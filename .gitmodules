@@ -49,3 +49,6 @@
 [submodule "lib/paths"]
 	path = lib/paths
 	url = https://github.com/kobbled/kl-paths
+[submodule "lib/sensors/tof_sensor"]
+	path = lib/sensors/tof_sensor
+	url = https://github.com/kobbled/kl-tof
