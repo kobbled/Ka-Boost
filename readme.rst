@@ -31,7 +31,7 @@ To install all of Ka-Boost's modules use:
 
     git clone https://github.com/kobbled/Ka-Boost --recurse-submodules
 
-Add the path where this is stored to the environment variable **ROSUM_PKG_PATH** to start using.
+Add the path where this is stored to the environment variable **ROSSUM_PKG_PATH** to start using.
 
 Some packages also ulitize `TP-Plus`_ instead of LS files. TP-Plus is written in ruby. To use this
 language abstraction please install ruby, clone the repository, add to your path, and install by 
