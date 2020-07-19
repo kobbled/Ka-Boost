@@ -33,10 +33,6 @@ To install all of Ka-Boost's modules use:
 
 Add the path where this is stored to the environment variable **ROSSUM_PKG_PATH** to start using.
 
-Some packages also ulitize `TP-Plus`_ instead of LS files. TP-Plus is written in ruby. To use this
-language abstraction please install ruby, clone the repository, add to your path, and install by 
-running the commands in the *Development* section of it's readme file.
-
 Getting Started
 ==================
 
