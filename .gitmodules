@@ -52,3 +52,6 @@
 [submodule "lib/sensors/tof"]
 	path = lib/sensors/tof
 	url = https://github.com/kobbled/kl-tof
+[submodule "lib/shapes"]
+	path = lib/shapes
+	url = git@github.com:kobbled/kl-shapes.git
