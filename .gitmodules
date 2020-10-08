@@ -55,3 +55,6 @@
 [submodule "lib/shapes"]
 	path = lib/shapes
 	url = git@github.com:kobbled/kl-shapes.git
+[submodule "lib/forms"]
+	path = lib/forms
+	url = git@github.com:kobbled/kl-forms.git
