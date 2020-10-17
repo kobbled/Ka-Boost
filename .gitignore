@@ -6,4 +6,5 @@ fanuc-kl/
 .vscode/
 scratch.md
 todo.md
+*.man_log
 
