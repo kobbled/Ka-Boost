@@ -58,6 +58,3 @@
 [submodule "lib/forms"]
 	path = lib/forms
 	url = git@github.com:kobbled/kl-forms.git
-[submodule "lib/xml"]
-	path = lib/xml
-	url = git@github.com:kobbled/kl-xml.git
