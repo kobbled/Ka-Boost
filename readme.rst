@@ -15,7 +15,7 @@ Install
 
 .. _rossum: https://github.com/kobbled/rossum
 .. _ktransw: https://github.com/kobbled/ktransw_py
-.. _here: https://github.com/kobbled/rossum/releases/tag/0.2.0
+.. _here: https://github.com/kobbled/rossum/releases
 .. _TP-Plus: https://github.com/kobbled/tp_plus
 
 In order to run Ka-Boost libraries, `rossum`_ and `ktransw`_ must be installed
