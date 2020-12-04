@@ -61,3 +61,6 @@
 [submodule "lib/xmlib"]
 	path = lib/xmlib
 	url = git@github.com:kobbled/kl-xml.git
+[submodule "lib/draw"]
+	path = lib/draw
+	url = git@github.com:kobbled/kl-draw.git
