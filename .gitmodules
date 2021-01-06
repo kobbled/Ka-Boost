@@ -64,3 +64,9 @@
 [submodule "lib/draw"]
 	path = lib/draw
 	url = git@github.com:kobbled/kl-draw.git
+[submodule "lib/queue"]
+	path = lib/queue
+	url = git@github.com:kobbled/kl-queue.git
+[submodule "lib/graph"]
+	path = lib/graph
+	url = git@github.com:kobbled/kl-graph.git
