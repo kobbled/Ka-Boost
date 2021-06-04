@@ -1,9 +1,6 @@
 [submodule "lib/csv"]
 	path = lib/csv
 	url = https://github.com/kobbled/kl-csv
-[submodule "lib/debug"]
-	path = lib/debug
-	url = https://github.com/kobbled/kl-debug
 [submodule "lib/display"]
 	path = lib/display
 	url = https://github.com/kobbled/kl-display
