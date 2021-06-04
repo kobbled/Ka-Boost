@@ -1,69 +1,69 @@
 [submodule "lib/csv"]
 	path = lib/csv
-	url = https://github.com/kobbled/kl-csv
+	url = https://github.com/kobbled/kl-csv.git
 [submodule "lib/display"]
 	path = lib/display
-	url = https://github.com/kobbled/kl-display
+	url = https://github.com/kobbled/kl-display.git
 [submodule "lib/errors"]
 	path = lib/errors
-	url = https://github.com/kobbled/kl-errors
+	url = https://github.com/kobbled/kl-errors.git
 [submodule "lib/hash"]
 	path = lib/hash
-	url = https://github.com/kobbled/hash
+	url = https://github.com/kobbled/hash.git
 [submodule "lib/KUnit"]
 	path = lib/KUnit
-	url = https://github.com/kobbled/KUnit
+	url = https://github.com/kobbled/KUnit.git
 [submodule "lib/math"]
 	path = lib/math
-	url = https://github.com/kobbled/kl-math
+	url = https://github.com/kobbled/kl-math.git
 [submodule "lib/matrix"]
 	path = lib/matrix
-	url = https://github.com/kobbled/kl-matrix
+	url = https://github.com/kobbled/kl-matrix.git
 [submodule "lib/pose"]
 	path = lib/pose
-	url = https://github.com/kobbled/kl-pose
+	url = https://github.com/kobbled/kl-pose.git
 [submodule "lib/registers"]
 	path = lib/registers
-	url = https://github.com/kobbled/kl-registers
+	url = https://github.com/kobbled/kl-registers.git
 [submodule "lib/Strings"]
 	path = lib/Strings
-	url = https://github.com/kobbled/Strings
+	url = https://github.com/kobbled/Strings.git
 [submodule "lib/TPE"]
 	path = lib/TPE
-	url = https://github.com/kobbled/kl-TPE
+	url = https://github.com/kobbled/kl-TPE.git
 [submodule "lib/ktransw-macros"]
 	path = lib/ktransw-macros
-	url = https://github.com/kobbled/ktransw-macros
+	url = https://github.com/kobbled/ktransw-macros.git
 [submodule "lib/files"]
 	path = lib/files
-	url = https://github.com/kobbled/kl-files
+	url = https://github.com/kobbled/kl-files.git
 [submodule "lib/system"]
 	path = lib/system
-	url = https://github.com/kobbled/kl-system
+	url = https://github.com/kobbled/kl-system.git
 [submodule "lib/multitask"]
 	path = lib/multitask
-	url = https://github.com/kobbled/kl-task
+	url = https://github.com/kobbled/kl-task.git
 [submodule "lib/paths"]
 	path = lib/paths
-	url = https://github.com/kobbled/kl-paths
+	url = https://github.com/kobbled/kl-paths.git
 [submodule "lib/sensors/tof"]
 	path = lib/sensors/tof
-	url = https://github.com/kobbled/kl-tof
+	url = https://github.com/kobbled/kl-tof.git
 [submodule "lib/shapes"]
 	path = lib/shapes
-	url = git@github.com:kobbled/kl-shapes.git
+	url = https://github.com/kobbled/kl-shapes.git
 [submodule "lib/forms"]
 	path = lib/forms
-	url = git@github.com:kobbled/kl-forms.git
+	url = https://github.com/kobbled/kl-forms.git
 [submodule "lib/xmlib"]
 	path = lib/xmlib
-	url = git@github.com:kobbled/kl-xml.git
+	url = https://github.com/kobbled/kl-xml.git
 [submodule "lib/draw"]
 	path = lib/draw
-	url = git@github.com:kobbled/kl-draw.git
+	url = https://github.com/kobbled/kl-draw.git
 [submodule "lib/queue"]
 	path = lib/queue
-	url = git@github.com:kobbled/kl-queue.git
+	url = https://github.com/kobbled/kl-queue.git
 [submodule "lib/graph"]
 	path = lib/graph
-	url = git@github.com:kobbled/kl-graph.git
+	url = https://github.com/kobbled/kl-graph.git
