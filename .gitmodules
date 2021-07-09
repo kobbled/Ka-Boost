@@ -67,3 +67,6 @@
 [submodule "lib/graph"]
 	path = lib/graph
 	url = https://github.com/kobbled/kl-graph.git
+[submodule "lib/socket"]
+	path = lib/socket
+	url = git@github.com:kobbled/kl-socket.git
