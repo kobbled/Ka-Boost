@@ -1,0 +1,28 @@
+open 127.0.0.1
+anon
+bin
+prompt
+cd md:\
+
+mdel "test_pose.pc" "test_pose.vr" "test_shapes.pc" "test_shapes.vr" "test_draw.pc" "test_draw.vr" "test_paths.pc" "test_paths.vr" "test_pplan.pc" "test_pplan.vr" "test_math.pc" "test_math.vr"
+
+mdel "lam.pc" "paths.pc" "pthkd.pc" "hshint.pc" "tstpln.pc" "tstpoly.pc" "csvpth.pc" "pthgh.pc"
+mdel "lam.vr" "paths.vr" "pthkd.vr" "hshint.vr" "tstpln.vr" "tstpoly.vr" "csvpth.vr" "pthgh.vr"
+
+mdel "kinpos.pc" "srtclp.pc" "boxcyl.pc" "cyltst.pc"
+mdel "kinpos.vr" "srtclp.vr" "boxcyl.vr" "cyltst.vr"
+
+mdel "shapes.pc" "draw.pc" "pose.pc" "posetp.pc"
+mdel "shapes.vr" "draw.vr" "pose.vr" "posetp.vr"
+
+mdel "printlib.pc"  "usrdis.pc" "tplog.pc" "csvpip.pc" "csv.pc" "display.pc"
+mdel "printlib.vr" "usrdis.vr" "tplog.vr" "csv.vr" "csvpip.vr" "display.vr"
+
+mdel "hashenv.pc" "hashstr.pc" "hshreal.pc" "hshtype.pc"
+mdel "hashenv.vr" "hashstr.vr" "hshreal.vr" "hshtype.vr"
+
+mdel "forms.pc" "errors.pc" "files.pc" "math.pc" "matrix.pc" "matrix2D.pc" "multitask.pc" "registers.pc" "systemlib.pc" "hashtpe.pc" "tpelib.pc"
+mdel "forms.vr" "errors.vr" "files.vr" "math.vr" "matrix.vr" "matrix2D.vr" "multitask.vr" "registers.vr" "systemlib.vr" "hashtpe.vr" "tpelib.vr"
+
+
+quit

@@ -1,0 +1,1 @@
+ftp -s:master_del.txt 127.0.0.1
