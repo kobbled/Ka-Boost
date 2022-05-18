@@ -4,10 +4,25 @@ bin
 prompt
 cd md:\
 
-mdel "test_pose.pc" "test_pose.vr" "test_shapes.pc" "test_shapes.vr" "test_draw.pc" "test_draw.vr" "test_paths.pc" "test_paths.vr" "test_pplan.pc" "test_pplan.vr" "test_math.pc" "test_math.vr"
+mdel "test_pose.pc" "test_pose.vr" "test_shapes.pc" "test_shapes.vr" "test_draw.pc" "test_draw.vr" "test_math.pc" "test_math.vr"
+mdel "test_paths.pc" "test_paths.vr" "test_pplan.pc" "test_pplan.vr" "test_pth_mtn.pc" "test_pth_mtn.vr" "test_pth_rot.pc" "test_pth_rot.vr"
 
-mdel "lam.pc" "paths.pc" "pthkd.pc" "hshint.pc" "tstpln.pc" "tstpoly.pc" "csvpth.pc" "pthgh.pc"
-mdel "lam.vr" "paths.vr" "pthkd.vr" "hshint.vr" "tstpln.vr" "tstpoly.vr" "csvpth.vr" "pthgh.vr"
+mdel "frm_pad.pc"
+mdel "frm_pad.vr"
+
+mdel "tspdrw.pc" "tspmtn.pc" "tstrot.pc"
+mdel "tspdrw.vr" "tspmtn.vr" "tstrot.vr"
+
+mdel "tstmtn.pc" "tstrmn.pc" "tstpth.pc" "tstvrt.pc" "tstpln.pc"
+mdel "tstmtn.vr" "tstrmn.vr" "tstpth.vr" "tstvrt.vr" "tstpln.vr"
+
+mdel "csvpth.pc" "pthgh.pc" "tstpoly.pc" "pthkd.pc"
+mdel "csvpth.vr" "pthgh.vr" "tstpoly.vr" "pthkd.vr"
+
+mdel "t_node.vr" "rbtgp1.vr" "rbtgp2.vr"
+
+mdel "lam.pc" "paths.pc"
+mdel "lam.vr" "paths.vr"
 
 mdel "kinpos.pc" "srtclp.pc" "boxcyl.pc" "cyltst.pc"
 mdel "kinpos.vr" "srtclp.vr" "boxcyl.vr" "cyltst.vr"
@@ -18,11 +33,13 @@ mdel "shapes.vr" "draw.vr" "pose.vr" "posetp.vr"
 mdel "printlib.pc"  "usrdis.pc" "tplog.pc" "csvpip.pc" "csv.pc" "display.pc"
 mdel "printlib.vr" "usrdis.vr" "tplog.vr" "csv.vr" "csvpip.vr" "display.vr"
 
-mdel "hashenv.pc" "hashstr.pc" "hshreal.pc" "hshtype.pc"
-mdel "hashenv.vr" "hashstr.vr" "hshreal.vr" "hshtype.vr"
+mdel "hashenv.pc" "hashstr.pc" "hshreal.pc" "hshtype.pc" "hshint.pc"
+mdel "hashenv.vr" "hashstr.vr" "hshreal.vr" "hshtype.vr" "hshint.vr"
 
-mdel "forms.pc" "errors.pc" "files.pc" "math.pc" "matrix.pc" "matrix2D.pc" "multitask.pc" "registers.pc" "systemlib.pc" "hashtpe.pc" "tpelib.pc"
-mdel "forms.vr" "errors.vr" "files.vr" "math.vr" "matrix.vr" "matrix2D.vr" "multitask.vr" "registers.vr" "systemlib.vr" "hashtpe.vr" "tpelib.vr"
+mdel "forms.pc" "errors.pc" "files.pc" "math.pc" "matrix.pc" "matrix2D.pc" "multitask.pc" "hashtpe.pc" "tpelib.pc"
+mdel "forms.vr" "errors.vr" "files.vr" "math.vr" "matrix.vr" "matrix2D.vr" "multitask.vr" "hashtpe.vr" "tpelib.vr"
 
+mdel "registers.pc" "systemlib.pc" "strings.pc"
+mdel "registers.vr" "systemlib.vr" "strings.vr"
 
 quit
