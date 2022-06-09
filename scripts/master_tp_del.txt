@@ -1,0 +1,9 @@
+open 127.0.0.1
+anon
+bin
+prompt
+cd md:\
+
+mdel "move_line.ls" "move_circ.ls" "mov_scn.ls" "mov_am_line.ls" "mov_am_circ.ls" "mov_line_rot.ls" "mov_circ_rot.ls" "mov_scn_rot.ls" "mov_am_lrot.ls" "mov_am_crot.ls"
+
+quit
