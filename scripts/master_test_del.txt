@@ -4,7 +4,7 @@ bin
 prompt
 cd md:\
 
-mdel "test_pose.pc" "test_pose.vr" "test_shapes.pc" "test_shapes.vr" "test_draw.pc" "test_draw.vr" "test_math.pc" "test_math.vr"
+mdel "test_pose.pc" "test_pose.vr" "test_shapes.pc" "test_shapes.vr" "test_draw.pc" "test_draw.vr" "test_math.pc" "test_math.vr" "test_pth_srt.pc" "test_pth_srt.vr"
 mdel "test_paths.pc" "test_paths.vr" "test_pplan.pc" "test_pplan.vr" "test_pth_mtn.pc" "test_pth_mtn.vr" "test_pth_rot.pc" "test_pth_rot.vr"
 
 mdel "frmpad.pc" "tstlam.pc" "test_form.pc"
@@ -13,12 +13,12 @@ mdel "frmpad.vr" "tstlam.vr" "test_form.vr"
 mdel "tspdrw.pc" "tspmtn.pc" "tsvmtn.pc" "tsrmtn.pc"
 mdel "tspdrw.vr" "tspmtn.vr" "tsvmtn.vr" "tsrmtn.vr"
 
-mdel "tstpth.pc" "tstvrt.pc" "tstrot.pc" "tstpln.pc"
-mdel "tstpth.vr" "tstvrt.vr" "tstrot.vr" "tstpln.vr"
+mdel "tstpth.pc" "tstvrt.pc" "tstrot.pc" "tstpln.pc" "tstorn.pc" "tstsrf.pc" "tstarr.pc" "tstsort.pc"
+mdel "tstpth.vr" "tstvrt.vr" "tstrot.vr" "tstpln.vr" "tstorn.vr" "tstsrf.vr" "tstarr.vr" "tstsort.vr"
 
-mdel "csvpth.pc" "pthgh.pc" "tstpoly.pc" "pthkd.pc"
-mdel "csvpth.vr" "pthgh.vr" "tstpoly.vr" "pthkd.vr"
+mdel "csvpth.pc" "tstgh.pc" "tstpoly.pc" "tstkd.pc"
+mdel "csvpth.vr" "tstgh.vr" "tstpoly.vr" "tstkd.vr"
 
-mdel "t_node.vr" "rbtgp1.vr" "rbtgp2.vr"
+mdel "t_node.vr" "t_paths.vr" "rbtgp1.vr" "rbtgp2.vr"
 
 quit
