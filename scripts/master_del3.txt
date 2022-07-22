@@ -1,0 +1,16 @@
+open 127.0.0.1
+anon
+bin
+prompt
+cd md:\
+
+mdel "lam.pc" "paths.pc"
+mdel "lam.vr" "paths.vr"
+
+mdel "kinpos.pc" "srtclp.pc" "boxcyl.pc" "cyltst.pc"
+mdel "kinpos.vr" "srtclp.vr" "boxcyl.vr" "cyltst.vr"
+
+mdel "shapes.pc" "draw.pc" "pose.pc" "posetp.pc" "math.pc"
+mdel "shapes.vr" "draw.vr" "pose.vr" "posetp.vr" "math.vr"
+
+quit
