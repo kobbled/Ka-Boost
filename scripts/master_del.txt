@@ -13,8 +13,8 @@ mdel "kinpos.vr" "srtclp.vr" "boxcyl.vr" "cyltst.vr"
 mdel "shapes.pc" "draw.pc" "pose.pc" "posetp.pc"
 mdel "shapes.vr" "draw.vr" "pose.vr" "posetp.vr"
 
-mdel "printlib.pc"  "usrdis.pc" "tplog.pc" "csvpip.pc" "csv.pc" "display.pc"
-mdel "printlib.vr" "usrdis.vr" "tplog.vr" "csv.vr" "csvpip.vr" "display.vr"
+mdel "printlib.pc" "usrdis.pc" "tplog.pc" "csvpip.pc" "csvpth.pc" "csv.pc" "display.pc"
+mdel "printlib.vr" "usrdis.vr" "tplog.vr" "csvpip.vr" "csvpth.vr" "csv.vr" "display.vr"
 
 mdel "hashenv.pc" "hashstr.pc" "hshreal.pc" "hshtype.pc" "hshint.pc"
 mdel "hashenv.vr" "hashstr.vr" "hshreal.vr" "hshtype.vr" "hshint.vr"
