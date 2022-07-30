@@ -4,8 +4,11 @@ bin
 prompt
 cd md:\
 
-mdel "tst_csv_rdln.kl" "tst_csv_typ.kl" "tst_csv_main.kl" "tst_csv_pipe.kl" "tst_csv_writ.kl" "tstcsv.pc" "tstpip.pc"
-mdel "tst_csv_rdln.vr" "tst_csv_typ.kl" "tst_csv_main.vr" "tst_csv_pipe.vr" "tst_csv_writ.vr" "tstcsv.vr" "tstpip.vr"
+mdel "tst_csv_main.kl" "tst_csv_pipe.kl" "tst_csv_writ.kl" "tst_csv_rdln.kl" "tst_csv_typ.kl"
+mdel "tst_csv_main.vr" "tst_csv_pipe.vr" "tst_csv_writ.vr" "tst_csv_rdln.vr" "tst_csv_typ.kl"
+
+mdel "tstcsv.pc" "tstpip.pc"
+mdel "tstcsv.vr" "tstpip.vr"
 
 mdel "test_pose.pc" "test_pose.vr" "test_shapes.pc" "test_shapes.vr" "test_draw.pc" "test_draw.vr" "test_math.pc" "test_math.vr" "test_pth_srt.pc" "test_pth_srt.vr"
 mdel "test_paths.pc" "test_paths.vr" "test_pplan.pc" "test_pplan.vr" "test_pth_mtn.pc" "test_pth_mtn.vr" "test_pth_rot.pc" "test_pth_rot.vr"
