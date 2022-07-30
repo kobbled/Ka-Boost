@@ -5,7 +5,7 @@ prompt
 cd md:\
 
 mdel "lam.pc" "paths.pc" "draw.pc"
-mdel "lam.vr" "paths.vr" "draw.vr"
+mdel "lam.vr" "paths.vr" "draw.vr" "pathlayout.vr"
 
 mdel "kinpos.pc" "srtclp.pc"
 mdel "kinpos.vr" "srtclp.vr"
