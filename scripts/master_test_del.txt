@@ -13,6 +13,9 @@ mdel "tstlay.pc" "tstcsv.vr" "tstpip.vr"
 mdel "test_pose.pc" "test_pose.vr" "test_shapes.pc" "test_shapes.vr" "test_draw.pc" "test_draw.vr" "test_math.pc" "test_math.vr" "test_pth_srt.pc" "test_pth_srt.vr"
 mdel "test_paths.pc" "test_paths.vr" "test_pplan.pc" "test_pplan.vr" "test_pth_mtn.pc" "test_pth_mtn.vr" "test_pth_rot.pc" "test_pth_rot.vr"
 
+mdel "test_lam.pc"
+mdel "test_lam.vr"
+
 mdel "frmpad.pc" "tstlam.pc" "test_form.pc"
 mdel "frmpad.vr" "tstlam.vr" "test_form.vr"
 
@@ -21,6 +24,8 @@ mdel "tspdrw.vr" "tspmtn.vr" "tsvmtn.vr" "tsrmtn.vr"
 
 mdel "tstpth.pc" "tstmtn.pc" "tstrmn.pc" "tstvrt.pc" "tstrot.pc" "tstpln.pc" "tsplrt.pc" "tstorn.pc" "tstsrf.pc" "tstarr.pc" "tstsort.pc"
 mdel "tstpth.vr" "tstmtn.vr" "tstrmn.vr" "tstvrt.vr" "tstrot.vr" "tstpln.vr" "tsplrt.vr" "tstorn.vr" "tstsrf.vr" "tstarr.vr" "tstsort.vr"
+
+mdel "pathlayout.vr" "pathmake.vr"
 
 mdel "csvpth.pc" "tstgh.pc" "tstpoly.pc" "tstkd.pc"
 mdel "csvpth.vr" "tstgh.vr" "tstpoly.vr" "tstkd.vr"
