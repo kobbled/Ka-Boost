@@ -4,8 +4,8 @@ bin
 prompt
 cd md:\
 
-mdel "lam.pc" "paths.pc" "draw.pc"
-mdel "lam.vr" "paths.vr" "draw.vr" "pathlayout.vr" "pathmake.vr"
+mdel "lamlib.pc" "paths.pc" "draw.pc"
+mdel "lamlib.vr" "paths.vr" "draw.vr" "pathlayout.vr" "pathmake.vr" "t_paths.vr"
 
 mdel "kinpos.pc" "srtclp.pc"
 mdel "kinpos.vr" "srtclp.vr"
