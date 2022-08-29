@@ -1,1 +1,1 @@
-ftp -s:master_del3.txt 127.0.0.1
+ftp -s:master_del3.txt

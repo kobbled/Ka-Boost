@@ -16,7 +16,7 @@ mdel "delete_form.vr"
 mdel "usershow.pc" "userclear.pc" "print.pc" "print_line.pc" "printpr.pc" "printnr.pc" "userRead.pc" "userReadInt.pc" "userReadReal.pc" "log_start.pc" "log_stop.pc" "log_string.pc" "log_numreg.pc" "log_posreg.pc" "log_io.pc"
 mdel "usershow.vr" "userclear.vr" "print.vr" "print_line.vr" "printpr.vr" "printnr.vr" "userRead.vr" "userReadInt.vr" "userReadReal.vr" "log_start.vr" "log_stop.vr" "log_string.vr" "log_numreg.vr" "log_posreg.vr" "log_io.vr"
 
-mdel "sys_pns2sr.pc" "str_set.pc"
-mdel "sys_pns2sr.vr" "str_set.vr"
+mdel "sys_pns2sr.pc" "str_set.pc" "str_set.pc" "sys_getldr.pc" "sys_setldr.pc"
+mdel "sys_pns2sr.vr" "str_set.vr" "str_set.vr" "sys_getldr.vr" "sys_setldr.vr"
 
 quit
