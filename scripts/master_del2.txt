@@ -5,7 +5,7 @@ prompt
 cd md:\
 
 mdel "lamlib.pc" "paths.pc" "draw.pc"
-mdel "lamlib.vr" "paths.vr" "draw.vr" "pathlayout.vr" "pathmake.vr" "t_paths.vr"
+mdel "lamlib.vr" "paths.vr" "draw.vr" "layout.vr" "pathmake.vr" "t_paths.vr"
 
 mdel "kinpos.pc" "srtclp.pc"
 mdel "kinpos.vr" "srtclp.vr"
