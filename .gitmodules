@@ -73,3 +73,6 @@
 [submodule "lib/layout"]
 	path = lib/layout
 	url = https://github.com/kobbled/kl-layout.git
+[submodule "lib/hash-registers"]
+	path = lib/hash-registers
+	url = git@github.com:kobbled/kl-hash-registers
