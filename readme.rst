@@ -18,12 +18,8 @@ Install
 .. _here: https://github.com/kobbled/rossum/releases
 .. _TP-Plus: https://github.com/kobbled/tp_plus
 
-In order to run Ka-Boost libraries, `rossum`_ and `ktransw`_ must be installed
-properly with the nessecary environment variables set. A convenience distribution
-has been made, which can be downloaded `here`_. Read the `rossum`_ readme for more information.
-Make sure you add the location of this zip folder to your PATH! Also create the nessecary
-environment variables specified in the `rossum`_ readme. If you are installing from source make 
-sure you are using the kobbled master branch and not the upstream master root from gvanderhoorn.  
+* Install `rossum`_ (https://github.com/kobbled/rossum). Alternatively, a convenience distributions
+  can be downloaded `here`_.
 
 To install all of Ka-Boost's modules use:
 
