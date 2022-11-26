@@ -76,3 +76,6 @@
 [submodule "lib/hash-registers"]
 	path = lib/hash-registers
 	url = https://github.com/kobbled/kl-hash-registers.git
+[submodule "lib/iterator"]
+	path = lib/iterator
+	url = https://github.com/kobbled/kl-iterator.git

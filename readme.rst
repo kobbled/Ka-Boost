@@ -18,7 +18,7 @@ Install
 .. _here: https://github.com/kobbled/rossum/releases
 .. _TP-Plus: https://github.com/kobbled/tp_plus
 
-* Install `rossum`_ (https://github.com/kobbled/rossum). Alternatively, a convenience distributions
+* Install `rossum`_ (https://github.com/kobbled/rossum). Alternatively, a convenience distribution
   can be downloaded `here`_.
 
 To install all of Ka-Boost's modules use:
