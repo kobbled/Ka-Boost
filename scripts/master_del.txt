@@ -19,8 +19,8 @@ mdel "printlib.vr" "usrdis.vr" "usrplt.vr" "tplog.vr" "csvpip.vr" "csvpth.vr" "c
 mdel "hashenv.pc" "hashstr.pc" "hshreal.pc" "hshtype.pc" "hshint.pc"
 mdel "hashenv.vr" "hashstr.vr" "hshreal.vr" "hshtype.vr" "hshint.vr"
 
-mdel "forms.pc" "errors.pc" "files.pc" "math.pc" "matrix.pc" "matrix2D.pc" "multitask.pc" "hashtpe.pc" "tpelib.pc"
-mdel "forms.vr" "errors.vr" "files.vr" "math.vr" "matrix.vr" "matrix2D.vr" "multitask.vr" "hashtpe.vr" "tpelib.vr"
+mdel "forms.pc" "errors.pc" "files.pc" "math.pc" "matrix.pc" "multitask.pc" "hashtpe.pc" "tpelib.pc"
+mdel "forms.vr" "errors.vr" "files.vr" "math.vr" "matrix.vr" "multitask.vr" "hashtpe.vr" "tpelib.vr"
 
 mdel "registers.pc" "systemlib.pc" "kunit.pc" "strings.pc"
 mdel "registers.vr" "systemlib.vr" "kunit.vr" "strings.vr"
