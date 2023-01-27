@@ -1,1 +1,1 @@
-ftp -s:master_test_del.txt
+ftp -s:master_test_del.txt %1

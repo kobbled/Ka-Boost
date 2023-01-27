@@ -1,1 +1,1 @@
-ftp -s:master_tp_interface_del.txt
+ftp -s:master_tp_interface_del.txt %1

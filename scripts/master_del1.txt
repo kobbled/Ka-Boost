@@ -1,0 +1,27 @@
+anon
+bin
+prompt
+cd md:\
+
+mdel "lamlib.pc" "paths.pc"
+mdel "lamlib.vr" "paths.vr" "layout.vr" "pathmake.vr" "t_paths.vr"
+
+mdel "kinpos.pc" "srtclp.pc" "boxcyl.pc" "cyltst.pc"
+mdel "kinpos.vr" "srtclp.vr" "boxcyl.vr" "cyltst.vr"
+
+mdel "shapes.pc" "draw.pc" "pose.pc" "posetp.pc"
+mdel "shapes.vr" "draw.vr" "pose.vr" "posetp.vr"
+
+mdel "printlib.pc" "usrdis.pc" "usrplt.pc" "tplog.pc" "csvpip.pc" "csvpth.pc" "csv.pc" "display.pc"
+mdel "printlib.vr" "usrdis.vr" "usrplt.vr" "tplog.vr" "csvpip.vr" "csvpth.vr" "csv.vr" "display.vr"
+
+mdel "hashenv.pc" "hashstr.pc" "hshreal.pc" "hshtype.pc" "hshint.pc" "hashenv.pc" "hashreg.pc"
+mdel "hashenv.vr" "hashstr.vr" "hshreal.vr" "hshtype.vr" "hshint.vr" "hashenv.vr" "hashreg.vr"
+
+mdel "forms.pc" "errors.pc" "files.pc" "math.pc" "matrix.pc" "matrix2d.pc" "multitask.pc" "hashtpe.pc" "tpelib.pc"
+mdel "forms.vr" "errors.vr" "files.vr" "math.vr" "matrix.vr" "matrix2d.vr" "multitask.vr" "hashtpe.vr" "tpelib.vr"
+
+mdel "registers.pc" "systemlib.pc" "kunit.pc" "strings.pc"
+mdel "registers.vr" "systemlib.vr" "kunit.vr" "strings.vr"
+
+quit
