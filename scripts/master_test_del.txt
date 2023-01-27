@@ -43,4 +43,7 @@ mdel "t_node.vr" "t_paths.vr" "rbtgp1.vr" "rbtgp2.vr"
 
 mdel "test_iter_struct.ls" "test_set_struct.ls" "test_set_var.ls"
 
+mdel "tppenv.pc"
+mdel "tppenv.vr"
+
 quit
