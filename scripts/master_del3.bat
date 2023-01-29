@@ -1,1 +1,3 @@
-ftp -s:master_del3.txt
+set ip=%1
+
+ftp -s:master_del3.txt %ip%
