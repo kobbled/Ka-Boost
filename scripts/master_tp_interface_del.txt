@@ -3,19 +3,22 @@ bin
 prompt
 cd md:\
 
-mdel "pos_add.pc" "pos_addjoint.pc" "pos_axescnt.pc" "pos_center.pc" "pos_clrpr.pc" "pos_cnvcart.pc" "pos_cross.pc" "pos_dot.pc" "pos_frame.pc" "pos_frame4.pc" "pos_grplen.pc" "pos_inv.pc" "pos_linefrm.pc" "pos_lineinc.pc" "pos_mskornt.pc" "pos_mskxyz.pc" "pos_mult.pc" "pos_prtype.pc" "pos_scldiv.pc" "pos_sclmult.pc" "pos_setcfg.pc" "pos_setjnt.pc" "pos_setjnt2.pc" "pos_setjnt3.pc" "pos_setjnt6.pc" "pos_setxyz.pc" "pos_setxyzgp.pc" "pos_sub.pc"
-mdel "pos_add.vr" "pos_addjoint.vr" "pos_axescnt.vr" "pos_center.vr" "pos_clrpr.vr" "pos_cnvcart.vr" "pos_cross.vr" "pos_dot.vr" "pos_frame.vr" "pos_frame4.vr" "pos_grplen.vr" "pos_inv.vr" "pos_linefrm.vr" "pos_lineinc.vr" "pos_mskornt.vr" "pos_mskxyz.vr" "pos_mult.vr" "pos_prtype.vr" "pos_scldiv.vr" "pos_sclmult.vr" "pos_setcfg.vr" "pos_setjnt.vr" "pos_setjnt2.vr" "pos_setjnt3.vr" "pos_setjnt6.vr" "pos_setxyz.vr" "pos_setxyzgp.vr" "pos_sub.vr"
+mdel "pos_add.pc" "pos_addjoint.pc" "pos_axescnt.pc" "pos_center.pc" "pos_clrpr.pc" "pos_cnvcart.pc" "pos_cross.pc" "pos_dot.pc" "pos_frame.pc" "pos_frame4.pc" "pos_grplen.pc" "pos_getjpos.pc" "pos_inv.pc" "pos_linefrm.pc" "pos_lineinc.pc" "pos_mskornt.pc" "pos_mskxyz.pc" "pos_mult.pc" "pos_prtype.pc" "pos_scldiv.pc" "pos_sclmult.pc" "pos_setcfg.pc" "pos_setjnt.pc" "pos_setjnt2.pc" "pos_setjnt3.pc" "pos_setjnt6.pc" "pos_setxyz.pc" "pos_setxyzgp.pc" "pos_sub.pc"
+mdel "pos_add.vr" "pos_addjoint.vr" "pos_axescnt.vr" "pos_center.vr" "pos_clrpr.vr" "pos_cnvcart.vr" "pos_cross.vr" "pos_dot.vr" "pos_frame.vr" "pos_frame4.vr" "pos_grplen.vr" "pos_getjpos.vr" "pos_inv.vr" "pos_linefrm.vr" "pos_lineinc.vr" "pos_mskornt.vr" "pos_mskxyz.vr" "pos_mult.vr" "pos_prtype.vr" "pos_scldiv.vr" "pos_sclmult.vr" "pos_setcfg.vr" "pos_setjnt.vr" "pos_setjnt2.vr" "pos_setjnt3.vr" "pos_setjnt6.vr" "pos_setxyz.vr" "pos_setxyzgp.vr" "pos_sub.vr"
 
-mdel "mth_abs.pc" "mth_arcang.pc" "mth_arclen.pc" "mth_atan_pos.pc" "mth_atan2.pc" "mth_ceil.pc" "mth_cos.pc" "mth_dec.pc" "mth_exp.pc" "mth_floor.pc" "mth_ln.pc" "mth_pow.pc" "mth_rotx.pc" "mth_roty.pc" "mth_rotz.pc" "mth_sin.pc" "mth_sqrt.pc"
-mdel "mth_abs.vr" "mth_arcang.vr" "mth_arclen.vr" "mth_atan_pos.vr" "mth_atan2.vr" "mth_ceil.vr" "mth_cos.vr" "mth_dec.vr" "mth_exp.vr" "mth_floor.vr" "mth_ln.vr" "mth_pow.vr" "mth_rotx.vr" "mth_roty.vr" "mth_rotz.vr" "mth_sin.vr" "mth_sqrt.vr"
+mdel "mth_abs.pc" "mth_arcang.pc" "mth_arclen.pc" "mth_atan_pos.pc" "mth_atan2.pc" "mth_ceil.pc" "mth_cos.pc" "mth_tan.pc" "mth_dec.pc" "mth_exp.pc" "mth_floor.pc" "mth_ln.pc" "mth_pow.pc" "mth_rotx.pc" "mth_roty.pc" "mth_rotz.pc" "mth_sin.pc" "mth_sqrt.pc"
+mdel "mth_abs.vr" "mth_arcang.vr" "mth_arclen.vr" "mth_atan_pos.vr" "mth_atan2.vr" "mth_ceil.vr" "mth_cos.vr" "mth_tan.vr" "mth_dec.vr" "mth_exp.vr" "mth_floor.vr" "mth_ln.vr" "mth_pow.vr" "mth_rotx.vr" "mth_roty.vr" "mth_rotz.vr" "mth_sin.vr" "mth_sqrt.vr"
 
 mdel "delete_form.pc"
 mdel "delete_form.vr"
 
+mdel "get_kint.pc" "get_krel.pc" "get_kio.pc" "get_kstr.pc" "get_kpos.pc" "get_kjnt.pc" "set_kbool.pc" "set_kint.pc" "set_kjnt.pc" "set_krel.pc" "set_kstr.pc" "set_kxyz.pc"
+mdel "get_kint.vr" "get_krel.vr" "get_kio.vr" "get_kstr.vr" "get_kpos.vr" "get_kjnt.vr" "set_kbool.vr" "set_kint.vr" "set_kjnt.vr" "set_krel.vr" "set_kstr.vr" "set_kxyz.vr"
+
 mdel "usershow.pc" "userclear.pc" "print.pc" "print_line.pc" "printpr.pc" "printnr.pc" "userRead.pc" "userReadInt.pc" "userReadReal.pc" "log_start.pc" "log_stop.pc" "log_string.pc" "log_numreg.pc" "log_posreg.pc" "log_io.pc"
 mdel "usershow.vr" "userclear.vr" "print.vr" "print_line.vr" "printpr.vr" "printnr.vr" "userRead.vr" "userReadInt.vr" "userReadReal.vr" "log_start.vr" "log_stop.vr" "log_string.vr" "log_numreg.vr" "log_posreg.vr" "log_io.vr"
 
-mdel "sys_pns2sr.pc" "str_set.pc" "str_set.pc" "sys_getldr.pc" "sys_setldr.pc"
-mdel "sys_pns2sr.vr" "str_set.vr" "str_set.vr" "sys_getldr.vr" "sys_setldr.vr"
+mdel "sys_pns2sr.pc" "str_set.pc" "str_set.pc" "sys_getldr.pc" "sys_setldr.pc" "sys_mskldr.pc"
+mdel "sys_pns2sr.vr" "str_set.vr" "str_set.vr" "sys_getldr.vr" "sys_setldr.vr" "sys_mskldr.vr"
 
 quit
