@@ -15,8 +15,8 @@ mdel "delete_form.vr"
 mdel "get_kint.pc" "get_krel.pc" "get_kio.pc" "get_kstr.pc" "get_kpos.pc" "get_kjnt.pc" "set_kbool.pc" "set_kint.pc" "set_kjnt.pc" "set_krel.pc" "set_kstr.pc" "set_kxyz.pc"
 mdel "get_kint.vr" "get_krel.vr" "get_kio.vr" "get_kstr.vr" "get_kpos.vr" "get_kjnt.vr" "set_kbool.vr" "set_kint.vr" "set_kjnt.vr" "set_krel.vr" "set_kstr.vr" "set_kxyz.vr"
 
-mdel "usershow.pc" "userclear.pc" "print.pc" "print_line.pc" "printpr.pc" "printnr.pc" "userRead.pc" "userReadInt.pc" "userReadReal.pc" "log_start.pc" "log_stop.pc" "log_string.pc" "log_numreg.pc" "log_posreg.pc" "log_io.pc"
-mdel "usershow.vr" "userclear.vr" "print.vr" "print_line.vr" "printpr.vr" "printnr.vr" "userRead.vr" "userReadInt.vr" "userReadReal.vr" "log_start.vr" "log_stop.vr" "log_string.vr" "log_numreg.vr" "log_posreg.vr" "log_io.vr"
+mdel "usershow.pc" "userclear.pc" "print.pc" "print_line.pc" "printpr.pc" "printnr.pc" "userRead.pc" "userReadInt.pc" "userReadReal.pc" "log_start.pc" "log_stop.pc" "log_open.pc" "log_close.pc" "log_string.pc" "log_numreg.pc" "log_posreg.pc" "log_io.pc"
+mdel "usershow.vr" "userclear.vr" "print.vr" "print_line.vr" "printpr.vr" "printnr.vr" "userRead.vr" "userReadInt.vr" "userReadReal.vr" "log_start.vr" "log_stop.vr" "log_open.vr" "log_close.vr" "log_string.vr" "log_numreg.vr" "log_posreg.vr" "log_io.vr"
 
 mdel "sys_pns2sr.pc" "str_set.pc" "str_set.pc" "sys_getldr.pc" "sys_setldr.pc" "sys_mskldr.pc"
 mdel "sys_pns2sr.vr" "str_set.vr" "str_set.vr" "sys_getldr.vr" "sys_setldr.vr" "sys_mskldr.vr"
