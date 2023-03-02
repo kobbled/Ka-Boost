@@ -40,6 +40,14 @@ To install all of Ka-Boost's modules use:
 
 Add the path where this is stored to the environment variable **ROSSUM_PKG_PATH** to start using.
 
+## Update
+
+Update Ka-Boost submodules with:
+
+```shell
+git submodule update --recursive
+```
+
 ## Building
   
 * Open the root folder of the interested package in a terminal.
