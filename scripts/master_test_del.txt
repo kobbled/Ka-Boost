@@ -3,8 +3,8 @@ bin
 prompt
 cd md:\
 
-mdel "tst_csv_main.kl" "tst_csv_pipe.kl" "tst_csv_writ.kl" "tst_csv_rdln.kl" "tst_csv_typ.kl" "test_layout.pc" "test_layers.pc"
-mdel "tst_csv_main.vr" "tst_csv_pipe.vr" "tst_csv_writ.vr" "tst_csv_rdln.vr" "tst_csv_typ.kl" "test_layout.vr" "test_layers.vr"
+mdel "tst_csv_main.kl" "tst_csv_pipe.kl" "tst_csv_writ.kl" "tst_csv_rdln.kl" "tst_csv_typ.kl" "test_layout.pc" "test_layers.pc" "test_strings.pc"
+mdel "tst_csv_main.vr" "tst_csv_pipe.vr" "tst_csv_writ.vr" "tst_csv_rdln.vr" "tst_csv_typ.kl" "test_layout.vr" "test_layers.vr" "test_strings.vr"
 
 mdel "tstlst.pc" "tstldt.pc" "tstlay.pc" "tstldw.pc" "tstcsv.pc" "tstpip.pc" "tstlam.pc"
 mdel "tstlst.vr" "tstldt.vr" "tstlay.vr" "tstldw.vr" "tstcsv.vr" "tstpip.vr" "tstlam.vr"
@@ -15,8 +15,8 @@ mdel "test_paths.pc" "test_paths.vr" "test_pplan.pc" "test_pplan.vr" "test_pth_m
 mdel "test_matrix.pc" "test_matrix2.pc" "carr3.pc" "carr4.pc" "carr10.pc" "carr23.pc" "carr305.pc"
 mdel "test_matrix.vr" "test_matrix2.vr" "carr3.vr" "carr4.vr" "carr10.vr" "carr23.vr" "carr305.vr"
 
-mdel "test_lam.pc" "test_tof.pc" "test_sim_tof.pc" "test_scan.pc" "scn_new.pc"
-mdel "test_lam.vr" "test_tof.vr" "test_sim_tof.vr" "test_scan.vr" "scn_new.vr"
+mdel "test_lam.pc" "test_tof.pc" "test_sim_tof.pc" "test_scan.pc" "scn_new.pc" "test_regmap.pc"
+mdel "test_lam.vr" "test_tof.vr" "test_sim_tof.vr" "test_scan.vr" "scn_new.vr" "test_regmap.vr"
 
 mdel "scanprt.pc" "staticscan.pc" "tof1.pc" "scan_part.pc"
 mdel "scanprt.vr" "staticscan.vr" "tof1.vr" "scan_part.vr"
@@ -27,8 +27,8 @@ mdel "frmpad.vr" "test_form.vr"
 mdel "tspdrw.pc" "tspmtn.pc" "tsvmtn.pc" "tsrmtn.pc"
 mdel "tspdrw.vr" "tspmtn.vr" "tsvmtn.vr" "tsrmtn.vr"
 
-mdel "tstpth.pc" "tstmtn.pc" "tstrmn.pc" "tstvrt.pc" "tstrot.pc" "tstpln.pc" "tsplrt.pc" "tstorn.pc" "tstsrf.pc" "tstarr.pc" "tstsort.pc"
-mdel "tstpth.vr" "tstmtn.vr" "tstrmn.vr" "tstvrt.vr" "tstrot.vr" "tstpln.vr" "tsplrt.vr" "tstorn.vr" "tstsrf.vr" "tstarr.vr" "tstsort.vr"
+mdel "tstpth.pc" "tstmtn.pc" "tstrmn.pc" "tstvrt.pc" "tstrot.pc" "tstpln.pc" "tsplrt.pc" "tstorn.pc" "tstsrf.pc" "tstarr.pc" "tstsort.pc" "tstrmp.pc"
+mdel "tstpth.vr" "tstmtn.vr" "tstrmn.vr" "tstvrt.vr" "tstrot.vr" "tstpln.vr" "tsplrt.vr" "tstorn.vr" "tstsrf.vr" "tstarr.vr" "tstsort.vr" "tstrmp.vr"
 
 mdel "layout.vr" "pathmake.vr"
 
