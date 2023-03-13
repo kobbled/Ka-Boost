@@ -3,6 +3,9 @@ bin
 prompt
 cd md:\
 
+mdel rbtgp1.pc rbtgp2.pc
+mdel rbtgp1.vr rbtgp2.vr
+
 mdel "lamlib.pc" "paths.pc"
 mdel "lamlib.vr" "paths.vr" "layout.vr" "pathmake.vr" "t_paths.vr"
 
