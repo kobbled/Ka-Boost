@@ -6,8 +6,8 @@ cd md:\
 mdel "tst_csv_main.kl" "tst_csv_pipe.kl" "tst_csv_writ.kl" "tst_csv_rdln.kl" "tst_csv_typ.kl" "test_layout.pc" "test_layers.pc" "test_strings.pc"
 mdel "tst_csv_main.vr" "tst_csv_pipe.vr" "tst_csv_writ.vr" "tst_csv_rdln.vr" "tst_csv_typ.kl" "test_layout.vr" "test_layers.vr" "test_strings.vr"
 
-mdel "tstlst.pc" "tstldt.pc" "tstlay.pc" "tstldw.pc" "tstcsv.pc" "tstpip.pc" "tstlam.pc" "tsttpe.pc"
-mdel "tstlst.vr" "tstldt.vr" "tstlay.vr" "tstldw.vr" "tstcsv.vr" "tstpip.vr" "tstlam.vr" "tsttpe.vr"
+mdel "tstlps.pc" "tstlst.pc" "tstldt.pc" "tstlay.pc" "tstldw.pc" "tstcsv.pc" "tstpip.pc" "tstlam.pc" "tsttpe.pc"
+mdel "tstlps.vr" "tstlst.vr" "tstldt.vr" "tstlay.vr" "tstldw.vr" "tstcsv.vr" "tstpip.vr" "tstlam.vr" "tsttpe.vr"
 
 mdel "test_pose.pc" "test_pose.vr" "test_shapes.pc" "test_shapes.vr" "test_draw.pc" "test_draw.vr" "test_math.pc" "test_math.vr" "test_pth_srt.pc" "test_pth_srt.vr"
 mdel "test_paths.pc" "test_paths.vr" "test_pplan.pc" "test_pplan.vr" "test_pth_mtn.pc" "test_pth_mtn.vr" "test_pth_rot.pc" "test_pth_rot.vr" "test_matpose.pc" "test_matpose.vr"
