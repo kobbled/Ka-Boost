@@ -15,10 +15,10 @@ mdel "kinpos.vr" "srtclp.vr" "boxcyl.vr" "cyltst.vr"
 mdel "shapes.pc" "draw.pc" "pose.pc" "posetp.pc" "quaternion.pc" "matpose.pc" "cmat.pc"
 mdel "shapes.vr" "draw.vr" "pose.vr" "posetp.vr" "quaternion.vr" "matpose.vr" "cmat.vr"
 
-mdel "t_matarr.vr"
+mdel "t_matarr.vr" "xmldbg.vr"
 
-mdel "printlib.pc" "usrdis.pc" "usrplt.pc" "tplog.pc" "csvpip.pc" "csvpth.pc" "csv.pc" "display.pc"
-mdel "printlib.vr" "usrdis.vr" "usrplt.vr" "tplog.vr" "csvpip.vr" "csvpth.vr" "csv.vr" "display.vr"
+mdel "xmlib.pc" "printlib.pc" "usrdis.pc" "usrplt.pc" "tplog.pc" "csvpip.pc" "csvpth.pc" "csv.pc" "display.pc"
+mdel "xmlib.vr" "printlib.vr" "usrdis.vr" "usrplt.vr" "tplog.vr" "csvpip.vr" "csvpth.vr" "csv.vr" "display.vr"
 
 mdel "hashenv.pc" "hashstr.pc" "hshreal.pc" "hshtype.pc" "hshint.pc" "hashenv.pc" "hashreg.pc"
 mdel "hashenv.vr" "hashstr.vr" "hshreal.vr" "hshtype.vr" "hshint.vr" "hashenv.vr" "hashreg.vr"
