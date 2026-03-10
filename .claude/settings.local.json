@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for dir in lib/*/)",
+      "Bash(do echo \"=== $dir ===\")",
+      "Read(//c/Users/MattDewar/OneDrive/OneDrive - Group Six Technologies Inc/Programing/git/Ka-Boost/**)",
+      "Bash(done)"
+    ]
+  }
+}
