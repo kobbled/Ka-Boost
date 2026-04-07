@@ -4,7 +4,10 @@
       "Bash(for dir in lib/*/)",
       "Bash(do echo \"=== $dir ===\")",
       "Read(//c/Users/MattDewar/OneDrive/OneDrive - Group Six Technologies Inc/Programing/git/Ka-Boost/**)",
-      "Bash(done)"
+      "Bash(done)",
+      "Bash(ls:*)",
+      "Bash(find \"C:/Users/MattDewar/OneDrive/OneDrive - Group Six Technologies Inc/Programing/git/Ka-Boost/lib\" -name \"package.json\" -type f | xargs grep -l \"TPElib\")",
+      "Bash(grep -r \"tpe__\\\\|TPElib\\\\|tpepose\" \"C:/Users/MattDewar/OneDrive/OneDrive - Group Six Technologies Inc/Programing/git/Ka-Boost/lib\" --include=\"*.kl\" --include=\"*.klh\" --include=\"*.klc\" 2>/dev/null | head -40)"
     ]
   }
 }
